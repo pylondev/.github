@@ -1,5 +1,7 @@
 ## PylonDev 👋
 
+![logo-pylon](https://github.com/user-attachments/assets/f72e0a50-9b89-4661-8cee-5dba502c5a2b)
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -11,4 +13,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Pylon](https://pylon.co.th/files/module_banner_videos/29/20180317142738.mp4 "Now in Android)
+
